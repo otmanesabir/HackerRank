@@ -17,7 +17,7 @@ My solutions to some HackerRank Problems
 
 | Problem        | Language           | Link  |
 | :------------- |:-------------| :-----|
-| A Very Big Sum | JavaScript | [a-very-big-sum.js](https://github.com/otmanesabir/HackerRank/blob/master/algorithms/A%20Very%20Big%20Sum/a-very-big-sum.js) |
+| A Very Big Sum | JavaScript | [a-very-big-sum.js](../blob/master/Algorithms/A%20Very%20Big%20Sum/a-very-big-sum.js) |
 | Birthday Cake Candles | C++ |   [bday-cake-candles.cpp](https://github.com/otmanesabir/HackerRank/blob/master/algorithms/Birthday%20Cake%20Candles/bday-cake-candles.cpp) |
 | Bon Appétit | C++ | [bon-appetit.cpp](https://github.com/otmanesabir/HackerRank/blob/master/algorithms/Bon%20App%C3%A9tit/bon-appetit.cpp) |
 | Breaking The Records | C++ | [breaking-the-records.cpp](https://github.com/otmanesabir/HackerRank/blob/master/algorithms/Breaking%20The%20Records/breaking-the-records.cpp) |
