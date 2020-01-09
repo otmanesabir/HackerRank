@@ -42,6 +42,14 @@ My solutions to some HackerRank Problems
 | Counting Valleys | C++ | [`counting-valleys.cpp`](../master/Interview%20Preparation%20Kit/Warm-Up/counting-valleys.cpp) |
 | Jumping On The Clouds | C++ | [`jumping-on-the-clouds.cpp`](../master/Interview%20Preparation%20Kit/Warm-Up/jumping-on-the-clouds.cpp) |
 
+### Sorting
+
+| Problem        | Language           | Link  |
+| :------------- |:-------------| :-----|
+| Bubble Sort | C++ | [`bubble-sort.cpp`](../master/Interview%20Preparation%20Kit/Sorting/bubble-sort.cpp) |
+| Comparator | C++ | [`comparator.cpp`](../master/Interview%20Preparation%20Kit/Sorting/comparator.cpp) |
+| Mark & Toys | C++ | [`mark-and-toys.cpp`](../master/Interview%20Preparation%20Kit/Sorting/mark-and-toys.cpp) |
+
 ### Arrays
 | Problem        | Language           | Link  |
 | :------------- |:-------------| :-----|
