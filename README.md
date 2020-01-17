@@ -5,7 +5,6 @@ My solutions to some HackerRank Problems
 
 **To do :**
 
-* finish current README.md
 * more challenges
 * script to automatically gather my latest solutions
 * offer different languages
@@ -61,3 +60,43 @@ My solutions to some HackerRank Problems
 | Problem        | Language           | Link  |
 | :------------- |:-------------| :-----|
 | Alternating Characters | C++ | [`alternating-characters.cpp`](../master/Interview%20Preparation%20Kit/String%20Manipulation/alternating-characters.cpp) ||
+
+## Language Proficiency
+
+### C++
+
+| Problem        | Language           | Link  |
+| :------------- |:-------------| :-----|
+| Say "Hello, World!" With C++ | C++ | [`hello-world.cpp`]() |
+| Input and Output | C++ | [`input-output.cpp`]() |
+| Conditional Statements | C++ | [`conditionam-statements.cpp`]() |
+| For Loop | C++ | [`for-loop.cpp`]() |
+| Functions | C++ | [`functions.cpp`]() |
+| Pointer | C++ | [`pointer.cpp`]() |
+| Arrays Introduction | C++ | [`arrays-introcution.cpp`]() |
+| Variable Sized Arrays | C++ | [`variable-sized-arrays.cpp`]() |
+| String Stream | C++ | [`string-stream.cpp`]() |
+| Overloading Ostream Operator | C++ | [`overloading-ostream-op.cpp`]() |
+
+### Python
+
+| Problem        | Language           | Link  |
+| :------------- |:-------------| :-----|
+| Say "Hello, World!" With Python | Python | [`say-hello.py`]() |
+| Python If-Else | Python | [`python-if-else.py`]() |
+| Arithmetic Operators | Python | [`arithmetic-operators.py`]() |
+| Python: Division | Python | [`division.py`]() |
+| Loops | Python | [`loops.py`]() |
+| Write a function | Python | [`write-a-function.py`]() |
+| Print Function | Python | [`print-function.py`]() |
+| Find the Runner-Up! Score | Python | [`runner-up.py`]() |
+| Finding the percentages | Python | [`finding-the-percentage.py`]() |
+| sWAP cASE | Python | [`swap-case.py`]() |
+| String Split and Join | Python | [`string-split-and-join.py`]() |
+| What's Your Name? | Python | [`whats-your-name.py`]() |
+| Mutations | Python | [`mutations.py`]() |
+| Find a string | Python | [`find-a-string.py`]() |
+
+
+
+

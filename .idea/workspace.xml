@@ -1,14 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d45c44d8-4ec7-4c74-9090-a701cfb46a6a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Language Proficiency/Python/arithmetic-operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language Proficiency/Python/division.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language Proficiency/Python/find-a-string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language Proficiency/Python/finding-the-percentage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language Proficiency/Python/loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language Proficiency/Python/mutations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language Proficiency/Python/print-function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language Proficiency/Python/python-if-else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language Proficiency/Python/say-hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language Proficiency/Python/string-split-and-join.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language Proficiency/Python/swap-case.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language Proficiency/Python/whats-your-name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language Proficiency/Python/write-a-function.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/A Very Big Sum/a-very-big-sum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/Birthday Cake Candles/bday-cake-candles.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/Bon Appétit/bon-appetit.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/Breaking The Records/breaking-the-records.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/Compare The Triplets/compare-the-triplets.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/Counting Valleys/counting-valleys.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/Designer PDF Viewer/designer-pdf-viewer.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/Diagonal Difference/diagonal-difference.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/Mini Max Sum/mini-max-sum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/Mini Max Sum/mini-max-sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/Plus Minus/plus-minus.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/Solve Me First/solve_me_first.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/Staircase/staircase.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/The Hurdle Race/the-hurdle-race.cpp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,15 +73,15 @@
       <recent name="$PROJECT_DIR$/algorithms/Compare The Triplets" />
     </key>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
+  <component name="RunDashboard">
+    <option name="ruleStates">
       <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
       </list>
     </option>
   </component>
@@ -57,22 +96,40 @@
       <option name="presentableId" value="Default" />
       <updated>1578580101491</updated>
       <workItem from="1578580103041" duration="2060000" />
-      <workItem from="1578599474439" duration="1947000" />
+      <workItem from="1578599474439" duration="2206000" />
+      <workItem from="1578666898397" duration="334000" />
+      <workItem from="1578732390651" duration="410000" />
+      <workItem from="1579277706184" duration="582000" />
+      <workItem from="1579295433952" duration="1041000" />
+      <workItem from="1579298800112" duration="741000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="477" y="328" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1578594816477">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="477" y="328" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1440.900@0.0.1440.900" timestamp="1578594816477" />
-    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1578599475816">
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1578732390996">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1578599475816" />
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1578732390996" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1578599699020">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
