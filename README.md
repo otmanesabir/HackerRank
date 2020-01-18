@@ -67,35 +67,35 @@ My solutions to some HackerRank Problems
 
 | Problem        | Language           | Link  |
 | :------------- |:-------------| :-----|
-| Say "Hello, World!" With C++ | C++ | [`hello-world.cpp`]() |
-| Input and Output | C++ | [`input-output.cpp`]() |
-| Conditional Statements | C++ | [`conditionam-statements.cpp`]() |
-| For Loop | C++ | [`for-loop.cpp`]() |
-| Functions | C++ | [`functions.cpp`]() |
-| Pointer | C++ | [`pointer.cpp`]() |
-| Arrays Introduction | C++ | [`arrays-introcution.cpp`]() |
-| Variable Sized Arrays | C++ | [`variable-sized-arrays.cpp`]() |
-| String Stream | C++ | [`string-stream.cpp`]() |
-| Overloading Ostream Operator | C++ | [`overloading-ostream-op.cpp`]() |
+| Say "Hello, World!" With C++ | C++ | [`hello-world.cpp`](../master/Language%20Proficiency/C%2B%2B/hello-world.cpp) |
+| Input and Output | C++ | [`input-output.cpp`](../master/Language%20Proficiency/C%2B%2B/input-output.cpp) |
+| Conditional Statements | C++ | [`conditional-statements.cpp`](../master/Language%20Proficiency/C%2B%2B/conditional-statements.cpp) |
+| For Loop | C++ | [`for-loop.cpp`](../master/Language%20Proficiency/C%2B%2B/for-loop.cpp) |
+| Functions | C++ | [`functions.cpp`](../master/Language%20Proficiency/C%2B%2B/functions.cpp) |
+| Pointer | C++ | [`pointer.cpp`](../master/Language%20Proficiency/C%2B%2B/pointer.cpp) |
+| Arrays Introduction | C++ | [`arrays-introcution.cpp`](../master/Language%20Proficiency/C%2B%2B/arrays-introcution.cpp) |
+| Variable Sized Arrays | C++ | [`variable-sized-arrays.cpp`](../master/Language%20Proficiency/C%2B%2B/variable-sized-arrays.cpp) |
+| String Stream | C++ | [`string-stream.cpp`](../master/Language%20Proficiency/C%2B%2B/string-stream.cpp) |
+| Overloading Ostream Operator | C++ | [`overloading-ostream-op.cpp`](../master/Language%20Proficiency/C%2B%2B/overloading-ostream-op.cpp) |
 
 ### Python
 
 | Problem        | Language           | Link  |
 | :------------- |:-------------| :-----|
-| Say "Hello, World!" With Python | Python | [`say-hello.py`]() |
-| Python If-Else | Python | [`python-if-else.py`]() |
-| Arithmetic Operators | Python | [`arithmetic-operators.py`]() |
-| Python: Division | Python | [`division.py`]() |
-| Loops | Python | [`loops.py`]() |
-| Write a function | Python | [`write-a-function.py`]() |
-| Print Function | Python | [`print-function.py`]() |
-| Find the Runner-Up! Score | Python | [`runner-up.py`]() |
-| Finding the percentages | Python | [`finding-the-percentage.py`]() |
-| sWAP cASE | Python | [`swap-case.py`]() |
-| String Split and Join | Python | [`string-split-and-join.py`]() |
-| What's Your Name? | Python | [`whats-your-name.py`]() |
-| Mutations | Python | [`mutations.py`]() |
-| Find a string | Python | [`find-a-string.py`]() |
+| Say "Hello, World!" With Python | Python | [`say-hello.py`](../master/Language%20Proficiency/Python/say-hello.py) |
+| Python If-Else | Python | [`python-if-else.py`](../master/Language%20Proficiency/Python/python-if-else.py) |
+| Arithmetic Operators | Python | [`arithmetic-operators.py`](../master/Language%20Proficiency/Python/arithmetic-operators.py) |
+| Python: Division | Python | [`division.py`](../master/Language%20Proficiency/Python/division.py) |
+| Loops | Python | [`loops.py`](../master/Language%20Proficiency/Python/loops.py) |
+| Write a function | Python | [`write-a-function.py`](../master/Language%20Proficiency/Python/write-a-function.py) |
+| Print Function | Python | [`print-function.py`](../master/Language%20Proficiency/Python/print-function.py) |
+| Find the Runner-Up! Score | Python | [`runner-up.py`](../master/Language%20Proficiency/Python/runner-up.py) |
+| Finding the percentages | Python | [`finding-the-percentage.py`](../master/Language%20Proficiency/Python/finding-the-percentage.py) |
+| sWAP cASE | Python | [`swap-case.py`](../master/Language%20Proficiency/Python/swap-case.py) |
+| String Split and Join | Python | [`string-split-and-join.py`](../master/Language%20Proficiency/Python/string-split-and-join.py) |
+| What's Your Name? | Python | [`whats-your-name.py`](../master/Language%20Proficiency/Python/whats-your-name.py) |
+| Mutations | Python | [`mutations.py`](../master/Language%20Proficiency/Python/mutations.py) |
+| Find a string | Python | [`find-a-string.py`](../master/Language%20Proficiency/Python/find-a-string.py) |
 
 
 
