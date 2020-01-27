@@ -13,7 +13,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,18 +45,6 @@
       <recent name="$PROJECT_DIR$/algorithms/Compare The Triplets" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -74,7 +61,8 @@
       <workItem from="1578732390651" duration="410000" />
       <workItem from="1579277706184" duration="582000" />
       <workItem from="1579295433952" duration="1041000" />
-      <workItem from="1579298800112" duration="1696000" />
+      <workItem from="1579298800112" duration="2143000" />
+      <workItem from="1580161067780" duration="243000" />
     </task>
     <servers />
   </component>
@@ -99,10 +87,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="477" y="328" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1440.900@0.0.1440.900" timestamp="1578594816477" />
-    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1578732390996">
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1580161067691">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1578732390996" />
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1580161067691" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1578599699020">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

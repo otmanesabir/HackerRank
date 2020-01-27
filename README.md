@@ -96,6 +96,10 @@ My solutions to some HackerRank Problems
 | What's Your Name? | Python | [`whats-your-name.py`](../master/Language%20Proficiency/Python/whats-your-name.py) |
 | Mutations | Python | [`mutations.py`](../master/Language%20Proficiency/Python/mutations.py) |
 | Find a string | Python | [`find-a-string.py`](../master/Language%20Proficiency/Python/find-a-string.py) |
+| String Validators | Python | [`string-validators.py`](../master/Language%20Proficiency/Python/string-validators.py) |
+| Text Wrap | Python | [`text-wrap.py`](../master/Language%20Proficiency/Python/text-wrap.py) |
+| itertools.combinations() | Python | [`itertools-combinations.py`](../master/Language%20Proficiency/Python/itertools-combinations.py) |
+| itertools.permutations() | Python | [`itertools-permutations.py`](../master/Language%20Proficiency/Python/itertools-permutations.py) |
 
 
 
