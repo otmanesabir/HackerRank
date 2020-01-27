@@ -81,7 +81,7 @@ My solutions to some HackerRank Problems
 | Class | C++ | [`class.cpp`](../master/Language%20Proficiency/C%2B%2B/class.cpp) |
 | Structs | C++ | [`structs.cpp`](../master/Language%20Proficiency/C%2B%2B/structs.cpp) |
 | Strings | C++ | [`strings.cpp`](../master/Language%20Proficiency/C%2B%2B/strings.cpp) |
-| Classes and Objects | C++ | [`classes-and-objects`](../master/Language%20Proficiency/C%2B%2B/classes-and-objects.cpp) |
+| Classes and Objects | C++ | [`classes-and-objects.cpp`](../master/Language%20Proficiency/C%2B%2B/classes-and-objects.cpp) |
 
 ### Python
 
