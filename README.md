@@ -77,6 +77,11 @@ My solutions to some HackerRank Problems
 | Variable Sized Arrays | C++ | [`variable-sized-arrays.cpp`](../master/Language%20Proficiency/C%2B%2B/variable-sized-arrays.cpp) |
 | String Stream | C++ | [`string-stream.cpp`](../master/Language%20Proficiency/C%2B%2B/string-stream.cpp) |
 | Overloading Ostream Operator | C++ | [`overloading-ostream-op.cpp`](../master/Language%20Proficiency/C%2B%2B/overloading-ostream-op.cpp) |
+| Box It! | C++ | [`box-it.cpp`](../master/Language%20Proficiency/C%2B%2B/box-it.cpp) |
+| Class | C++ | [`class.cpp`](../master/Language%20Proficiency/C%2B%2B/class.cpp) |
+| Structs | C++ | [`structs.cpp`](../master/Language%20Proficiency/C%2B%2B/structs.cpp) |
+| Strings | C++ | [`strings.cpp`](../master/Language%20Proficiency/C%2B%2B/strings.cpp) |
+| Classes and Objects | C++ | [`classes-and-objects`](../master/Language%20Proficiency/C%2B%2B/classes-and-objects.cpp) |
 
 ### Python
 
